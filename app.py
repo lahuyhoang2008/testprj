@@ -1,5 +1,5 @@
 """
-image_to_json.py - OCR đề thi THPT → questions.json
+laxthesigmas.py - OCR đề thi THPT → questions.json
 Hỗ trợ: PNG/JPG/WEBP, PDF, DOCX | Xử lý song song
 Cài:  pip install google-genai pillow pymupdf docx2pdf
 .env: GEMINI_API_KEY=your_key_here
